@@ -1,6 +1,7 @@
 import streamlit 
 import pandas 
 import requests 
+import snowlake.connector 
 
 streamlit.title('My parents New Healthy Diner')
 
